@@ -1,0 +1,2 @@
+# scottGrip
+GitHub Pages
